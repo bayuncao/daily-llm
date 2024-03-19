@@ -30,3 +30,13 @@
 
 - [📔 CH.99 -> 正文内容](./chapter/CH.99.md)
 - [🕘 CH.99 -> 更新记录](./changelog/CH.99.changelog.md)
+
+## CH.100 - 按图索骥
+
+> 这是搜集到的具有局部宏观的图片。每张图片会注明出处。
+
+![alt generative-AI-in-a-nutshell](picture/generative-AI-in-a-nutshell.png "generative-AI-in-a-nutshell")
+
+<p align="center"><a href="https://www.youtube.com/watch?v=2IK3DFHRFfw">图片出处</a></p>
+
+---
