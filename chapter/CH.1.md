@@ -7,10 +7,9 @@
    
    提出了BERT模型，它采用双向Transformer预训练方法，显著提高了多项NLP任务的性能。BERT的出现标志着预训练+微调的方法成为NLP领域的标准范式。
 
-3. "Improving language understanding with unsupervised learning
-
+3. ["Improving language understanding with unsupervised learning"](https://openai.com/research/language-unsupervised)
    
-   介绍了GPT模型的初代版本，展示了通过大规模语料库预训练单向语言模型，然后在特定任务上进行微调可以显著提升性能。这一思路开启了大规模预训练语言模型的研究潮流。
+   讨论了使用transformers和无监督预训练相结合的方法，以及这种方法在多样化语言任务中取得了最先进的结果。它强调了这种可扩展、任务不可知的系统的有效性，并提到系统也将被公开。这种结合使用有监督学习方法和无监督预训练的方法非常有效，
 
 4. "Language Models are Unsupervised Multitask Learners" by Radford et al. (OpenAI, 2019)
     
@@ -32,7 +31,7 @@
 
     提出了T5模型，强调将所有文本处理任务统一为文本到文本的格式，探索了迁移学习的极限。这种方法简化了不同NLP任务之间的转换，使得模型能够更容易地在多个任务上共享知识。
 
-9. "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations" by Lan et al. (2019)
+9.  "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations" by Lan et al. (2019)
 
     提出了ALBERT模型，通过参数共享和降低模型大小的策略，提高了模型训练的效率和性能。ALBERT对于理解如何在保持模型性能的同时减少资源消耗提供了重要的见解。
 
